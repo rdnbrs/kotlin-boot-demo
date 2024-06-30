@@ -1,6 +1,5 @@
 package com.rdnbrs.kotlin_boot_demo.controller
 
-import com.rdnbrs.kotlin_boot_demo.dto.CategoryResponseDto
 import com.rdnbrs.kotlin_boot_demo.dto.ProductRequestDto
 import com.rdnbrs.kotlin_boot_demo.dto.ProductResponseDto
 import com.rdnbrs.kotlin_boot_demo.service.IProductService
